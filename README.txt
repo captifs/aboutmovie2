@@ -1,2 +1,0 @@
-Eu am facut o aplicatie de cliend side web folosind HTML ,CSS, Bootrsrap , Javascript , Jquery. 
-Intrucat nu prea cunosc React/Angular m-am limitat la cunostintele mele si am incercat sa imit cerintele, avand la indemana uneltele ce le ce cunosc. Informatiile despre film apar doar dupa ce este cautat filmul: de exemplu scriem in search Spider, ne apar toate variantele, selectam una si apoi ne aparea in alt tab titlul ,descrierea , etc.
