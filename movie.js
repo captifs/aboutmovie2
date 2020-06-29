@@ -155,7 +155,6 @@ output += `
 
 
 
- <a  id='a2' href="https://movies-info1.abhinavgupt57.now.sh/"  class="btn btn-danger"><b>Go Back To Search</b></a>
 
 
  </div>
